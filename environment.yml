@@ -217,7 +217,6 @@ dependencies:
     - fiona==1.8.8
     - numexpr==2.7.1
     - osm2geojson==0.1.17
-    - pyhdf==0.10.2
     - rasterio==1.1.1
     - rasterstats==0.13.1
     - simplejson==3.17.0
